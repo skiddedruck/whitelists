@@ -15,21 +15,6 @@
                 }
             ]
         },
-        "786248813270532107": {
-            "hash": "cf44013532fe4f3875cac58cf6c199de407238492571b313e32a6f800f2deadedcd58c02e338ae1918f6d1295df620f7f5161b79df2faa4da60622e6d87a6eed",
-            "attackable": false,
-            "level": 2,
-            "tags": [
-                {
-                    "text": "Skidded Daddy",
-                    "color": [
-                        247,
-                        16,
-                        0
-                    ]
-                }
-            ]
-        },
         "12312451231": {
             "hash": "8f135361372772e63c20f3ddd9de232e61abd2a5f83c277e806c2f33b6e453ce094efa58ca5b764649246a914614eb3b4b07c857855681197baaa88feb95bd35",
             "attackable": false,
