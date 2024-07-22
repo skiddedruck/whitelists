@@ -29,21 +29,6 @@
                     ]
                 }
             ]
-        },
-        "12312451231": {
-            "hash": "8f135361372772e63c20f3ddd9de232e61abd2a5f83c277e806c2f33b6e453ce094efa58ca5b764649246a914614eb3b4b07c857855681197baaa88feb95bd35",
-            "attackable": false,
-            "level": 2,
-            "tags": [
-                {
-                    "text": "ruck daddy",
-                    "color": [
-                        247,
-                        16,
-                        0
-                    ]
-                }
-            ]
         }
     },
     "WhitelistedTags": {
