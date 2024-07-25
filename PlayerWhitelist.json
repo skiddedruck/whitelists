@@ -29,6 +29,21 @@
                     ]
                 }
             ]
+        },
+        "101": {
+            "hash": "ahhdjdjdbbd",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "yesnt",
+                    "color": [
+                        101,
+                        202,
+                        183
+                    ]
+                }
+            ]
         }
     },
     "WhitelistedTags": {
