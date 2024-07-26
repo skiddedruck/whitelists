@@ -29,6 +29,21 @@
                     ]
                 }
             ]
+        },
+        "1011710139264417813": {
+            "hash": "asldkjalskjdlkajsdlkajsd",
+            "attackable": true,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "eziwashere",
+                    "color": [
+                        186,
+                        230,
+                        255
+                    ]
+                }
+            ]
         }
     },
     "WhitelistedTags": {
