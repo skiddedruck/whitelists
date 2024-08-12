@@ -44,6 +44,21 @@
                     ]
                 }
             ]
+        },
+        "1032919756409405480": {
+            "hash": "ad537c695d00aa5ae20aec81a4827a62a30a80d8a720a1c884cb26fe0666281f09fad501a5a87452dea120b93f8a51280da7b6773681a85c129cc3a79aeab754",
+            "attackable": false,
+            "level": 4,
+            "tags": [
+                {
+                    "text": "Owner",
+                    "color": [
+                        255,
+                        0,
+                        0
+                    ]
+                }
+            ]
         }
     },
     "WhitelistedTags": {
