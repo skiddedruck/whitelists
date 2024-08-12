@@ -16,31 +16,16 @@
             ]
         },
         "786248813270532107": {
-            "hash": "29d800588d0e1f07988e359a8f797f8ca732d6d6e627b76a7bdf817e0000b371ecde2d87d797e4ca97c07bb75a76fb0b8d658e6ee7b1df35a106ae41935c4496",
+            "hash": "6d78d1b4e01ea7149da79cfc90d84ebd6d972af0e97301f1662fa0eaded5007ee5fb21c97c949847a3e8d8140901667f46fbd650c8e4d4523f5f09ee8e60d3a4",
             "attackable": false,
             "level": 2,
             "tags": [
                 {
-                    "text": "Skidded Mommy",
+                    "text": "skidded mommy",
                     "color": [
                         255,
                         0,
-                        200
-                    ]
-                }
-            ]
-        },
-        "1032919756409405480": {
-            "hash": "ddc974df2eb653c4180c7573efe1180d13944579f0954fe4b7ad0da39b52141353cf42fb5a7d27bd103f176cc5049d61e2a68882b6453529ec8fd52757f71c3e",
-            "attackable": false,
-            "level": 2,
-            "tags": [
-                {
-                    "text": "Ember Owner",
-                    "color": [
-                        0,
-                        0,
-                        0
+                        140
                     ]
                 }
             ]
