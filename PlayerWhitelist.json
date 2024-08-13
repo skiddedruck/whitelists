@@ -29,6 +29,21 @@
                     ]
                 }
             ]
+        },
+        "1032919756409405480": {
+            "hash": "te",
+            "attackable": true,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "h",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
         }
     },
     "WhitelistedTags": {
