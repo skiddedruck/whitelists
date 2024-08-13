@@ -1,20 +1,5 @@
 {
     "WhitelistedUsers": {
-        "1125789044249460786": {
-            "hash": "de5129d5b18ad9c791b6f352a22bd44e910644f921319c51c5ff8ad175a748b573bbd405f34f03a5346495a75218d023c5cfa860744d294815a3df130b409d67",
-            "attackable": false,
-            "level": 2,
-            "tags": [
-                {
-                    "text": "xylex",
-                    "color": [
-                        255,
-                        50,
-                        50
-                    ]
-                }
-            ]
-        },
         "786248813270532107": {
             "hash": "29d800588d0e1f07988e359a8f797f8ca732d6d6e627b76a7bdf817e0000b371ecde2d87d797e4ca97c07bb75a76fb0b8d658e6ee7b1df35a106ae41935c4496",
             "attackable": false,
